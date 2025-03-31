@@ -1,0 +1,12 @@
+[ req ]
+default_bits = 2048
+prompt = no
+distinguished_name = dn
+
+[ dn ]
+C = US
+ST = US
+L = STATE
+O = LOCALHOST
+OU = ORGANIZATIONAL UNIT
+CN = tao file server SSL cert folder
